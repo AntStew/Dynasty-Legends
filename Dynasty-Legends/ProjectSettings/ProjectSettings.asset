@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 716bd54e118ef934d850ea9ced1c990d
+  productGUID: a8bf0b9e9e3350e46a2c6b210ccaf2c3
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -807,10 +807,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: df472218-09e6-429d-9721-007a28d7d549
+  cloudProjectId: be923cc7-7008-475d-a9e4-f604a163dff4
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Dynasty-Legends
+  projectName: Dynasty-Legends 2025-06-12_21-14-05
   organizationId: antstew
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
