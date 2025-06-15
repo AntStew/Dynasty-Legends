@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "315084029348",
+    "project_id": "dynasty-legends",
+    "storage_bucket": "dynasty-legends.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315084029348:ios:8953a82ecfbf907f055531",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4DtmqaqspAXKs4zjfKGMze6WsLoGEMY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
